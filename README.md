@@ -1,3 +1,7 @@
+
+
+
+
 Challenge-Clustering <a name="TOP"></a>
 : Clustering Faulty Bearings Project
 ===================
@@ -88,6 +92,7 @@ To find the amount of clusters we need to use we plotted through the Elbow, Dend
 # Silhouette Score
 
 See video
+https://user-images.githubusercontent.com/41050093/129051060-03f993c5-6440-43a2-9943-a2afdba3cb29.mov
 
 # Best Features & Plots
 
