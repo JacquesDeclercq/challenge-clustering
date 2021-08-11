@@ -70,3 +70,28 @@ The 9 extracted features out of the raw data were :
 7. Kurtosis - acceleration on x,y,z axis, RPM, HZ, W
 8. Skew - acceleration on x,y,z axis, RPM, HZ, W
 9. Var - acceleration on x,y,z axis, RPM, HZ, W
+
+#Normalizing & Standardizing The Data
+1. from sklearn import StandarScaler
+2. from scipy.cluster.vq import whiten
+
+# PCA
+
+#PairPlot
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+# How many clusters ?
+To find the amount of clusters we need to use we plotted through the Elbow, Dendogram & Intertia plot
+
+# Elbow Plot
+
+# Inertia Plot
+
+# Dendogram
+
+# Silhouette Score
+
+# Best Features & Plots
+
+# Clustering Techniques`
