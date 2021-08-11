@@ -94,6 +94,9 @@ See video
 Max Acc A2_x
 STD A2_x
 FFT A2_x
+<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.17.44.png" width="350">
+<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.17.54.png" width="350">
+<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.17.49.png" width="350">
 
 # Clustering Techniques
 
@@ -103,4 +106,5 @@ Hierarchical
 DBSCAN
 Agglomerative Clustering
 Affinity Propagation
+<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.16.46.png" width="350">
 
