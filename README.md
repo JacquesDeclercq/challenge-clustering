@@ -79,7 +79,7 @@ To find the amount of clusters we need to use we plotted through the Elbow, Dend
 
 # Inertia Plot
 
-<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.14.06.png" width="350">
+<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.14.45.png" width="350">
 
 # Dendogram
 
