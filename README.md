@@ -47,18 +47,26 @@ from sklearn.cluster import AgglomerativeClustering
 ## Features Used
 Table, like this one :
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Max  | Min | Mean  | STD |Median  | Range |Kurtosis  | Skew | Var |
+------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- |-------------  |
+Acc X,Y,Z Axis  | Acc X,Y,Z Axis  | Acc X,Y,Z Axis  | Acc X,Y,Z Axis  |Acc X,Y,Z Axis  | Content Cell  |Content Cell  | Content Cell  |Content Cell   |
+Content Cell  | Content Cell. | Content Cell. | Content Cell. |Content Cell. | Content Cell. |Content Cell. |Content Cell.  |Content Cell.  |
+Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell   |
+Content Cell  | Content Cell. | Content Cell. | Content Cell. |Content Cell. | Content Cell. |Content Cell. |Content Cell.  |Content Cell.  |
+Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell   |
+Content Cell  | Content Cell. | Content Cell. | Content Cell. |Content Cell. | Content Cell. |Content Cell. |Content Cell.  |Content Cell.  |
+Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell   |
+Content Cell  | Content Cell. | Content Cell. | Content Cell. |Content Cell. | Content Cell. |Content Cell. |Content Cell.  |Content Cell.  |
+
 -------------------------------------------------------------------------------------------------------------------------
 The 9 extracted features out of the raw data were :
-Max - acceleration on x,y,z axis, RPM, HZ, W
-Min - acceleration on x,y,z axis, RPM, HZ, W
-Mean - acceleration on x,y,z axis, RPM, HZ, W
-STD - acceleration on x,y,z axis, RPM, HZ, W
-Median - acceleration on x,y,z axis, RPM, HZ, W
-Range - acceleration on x,y,z axis, RPM, HZ, W
-Kurtosis - acceleration on x,y,z axis, RPM, HZ, W
-Skew - acceleration on x,y,z axis, RPM, HZ, W
-Var - acceleration on x,y,z axis, RPM, HZ, W
+
+1. Max - acceleration on x,y,z axis, RPM, HZ, W
+2. Min - acceleration on x,y,z axis, RPM, HZ, W
+3. Mean - acceleration on x,y,z axis, RPM, HZ, W
+4. STD - acceleration on x,y,z axis, RPM, HZ, W
+5. Median - acceleration on x,y,z axis, RPM, HZ, W
+6. Range - acceleration on x,y,z axis, RPM, HZ, W
+7. Kurtosis - acceleration on x,y,z axis, RPM, HZ, W
+8. Skew - acceleration on x,y,z axis, RPM, HZ, W
+9. Var - acceleration on x,y,z axis, RPM, HZ, W
