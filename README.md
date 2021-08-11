@@ -100,11 +100,11 @@ FFT A2_x
 
 # Clustering Techniques
 
-K-Means
-Birch
-Hierarchical
-DBSCAN
-Agglomerative Clustering
-Affinity Propagation
+1. K-Means
+2. Birch
+3. Hierarchical
+4. DBSCAN
+5. Agglomerative Clustering
+6. Affinity Propagation
 <img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.16.46.png" width="350">
 
