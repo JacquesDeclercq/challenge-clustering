@@ -1,6 +1,6 @@
-# challenge-clustering
+Challenge-Clustering <a name="TOP"></a>
 Clustering Faulty Bearings Project
-
+===================
 
 # The Mission
 We were previously assigned to make an automated bearing testing system.
