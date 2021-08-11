@@ -73,15 +73,34 @@ To find the amount of clusters we need to use we plotted through the Elbow, Dend
 
 # Elbow Plot
 #Scaled Data
-
+<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.14.06.png" width="350">
 #Non Scaled Data
+<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.14.06.png" width="350">
 
 # Inertia Plot
 
+<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.14.06.png" width="350">
+
 # Dendogram
+
+<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.14.06.png" width="350">
 
 # Silhouette Score
 
+See video
+
 # Best Features & Plots
 
+Max Acc A2_x
+STD A2_x
+FFT A2_x
+
 # Clustering Techniques
+
+K-Means
+Birch
+Hierarchical
+DBSCAN
+Agglomerative Clustering
+Affinity Propagation
+
