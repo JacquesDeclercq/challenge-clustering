@@ -66,10 +66,7 @@ The 9 extracted features out of the raw data were :
 
 #PairPlot
 
-<p align="center">
-  <img src="Screenshot 2021-08-11 at 16.09.53.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+<img src="https://github.com/JacquesDeclercq/challenge-clustering/blob/main/images/Screenshot%202021-08-11%20at%2016.09.53.png" width="350">
 
 # How many clusters ?
 To find the amount of clusters we need to use we plotted through the Elbow, Dendogram & Intertia plot
