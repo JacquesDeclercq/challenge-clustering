@@ -45,19 +45,6 @@ from sklearn.datasets import make_classification
 from sklearn.cluster import AgglomerativeClustering
 
 ## Features Used
-Table, like this one :
-
-Max  | Min | Mean  | STD |Median  | Range |Kurtosis  | Skew | Var |
-------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- |-------------  |
-Acc X,Y,Z Axis  | Acc X,Y,Z Axis  | Acc X,Y,Z Axis  | Acc X,Y,Z Axis  |Acc X,Y,Z Axis  | Content Cell  |Content Cell  | Content Cell  |Content Cell   |
-Content Cell  | Content Cell. | Content Cell. | Content Cell. |Content Cell. | Content Cell. |Content Cell. |Content Cell.  |Content Cell.  |
-Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell   |
-Content Cell  | Content Cell. | Content Cell. | Content Cell. |Content Cell. | Content Cell. |Content Cell. |Content Cell.  |Content Cell.  |
-Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell   |
-Content Cell  | Content Cell. | Content Cell. | Content Cell. |Content Cell. | Content Cell. |Content Cell. |Content Cell.  |Content Cell.  |
-Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell   |
-Content Cell  | Content Cell. | Content Cell. | Content Cell. |Content Cell. | Content Cell. |Content Cell. |Content Cell.  |Content Cell.  |
-
 -------------------------------------------------------------------------------------------------------------------------
 The 9 extracted features out of the raw data were :
 
