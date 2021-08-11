@@ -45,6 +45,12 @@ from sklearn.datasets import make_classification
 from sklearn.cluster import AgglomerativeClustering
 
 ## Features Used
+Table, like this one :
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 -------------------------------------------------------------------------------------------------------------------------
 The 9 extracted features out of the raw data were :
 Max - acceleration on x,y,z axis, RPM, HZ, W
