@@ -85,6 +85,9 @@ The 9 extracted features out of the raw data were :
 To find the amount of clusters we need to use we plotted through the Elbow, Dendogram & Intertia plot
 
 # Elbow Plot
+#Scaled Data
+
+#Non Scaled Data
 
 # Inertia Plot
 
@@ -94,4 +97,4 @@ To find the amount of clusters we need to use we plotted through the Elbow, Dend
 
 # Best Features & Plots
 
-# Clustering Techniques`
+# Clustering Techniques
