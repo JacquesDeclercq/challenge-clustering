@@ -25,24 +25,24 @@ import seaborn as sns
 style.use('seaborn')
 
 # Model related libraries
-import statsmodels.api as sm
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
-from scipy.cluster.hierarchy import dendrogram
-from sklearn.datasets import make_blobs
-from sklearn.metrics import silhouette_samples, silhouette_score
-from scipy.cluster.vq import kmeans, vq
-from numpy import unique
-from numpy import where
-from sklearn.datasets import make_classification
-from sklearn.cluster import AffinityPropagation
-import matplotlib.pyplot as plt
-from sklearn.datasets.samples_generator import make_blobs
-from sklearn.cluster import Birch
-from scipy.cluster.hierarchy import fcluster, linkage
-from sklearn.datasets import make_classification
-from sklearn.cluster import AgglomerativeClustering
+- import statsmodels.api as sm
+- from sklearn.cluster import KMeans
+- from sklearn.preprocessing import StandardScaler
+- from sklearn.decomposition import PCA
+- from scipy.cluster.hierarchy import dendrogram
+- from sklearn.datasets import make_blobs
+- from sklearn.metrics import silhouette_samples, silhouette_score
+- from scipy.cluster.vq import kmeans, vq
+- from numpy import unique
+- from numpy import where
+- from sklearn.datasets import make_classification
+- from sklearn.cluster import AffinityPropagation
+- import matplotlib.pyplot as plt
+- from sklearn.datasets.samples_generator import make_blobs
+- from sklearn.cluster import Birch
+- from scipy.cluster.hierarchy import fcluster, linkage
+- from sklearn.datasets import make_classification
+- from sklearn.cluster import AgglomerativeClustering
 
 ## Features Used
 -------------------------------------------------------------------------------------------------------------------------
