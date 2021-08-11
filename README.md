@@ -1,5 +1,5 @@
 Challenge-Clustering <a name="TOP"></a>
-Clustering Faulty Bearings Project
+: Clustering Faulty Bearings Project
 ===================
 
 # The Mission
